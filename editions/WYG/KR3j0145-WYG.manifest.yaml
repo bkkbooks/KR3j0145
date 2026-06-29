@@ -1,0 +1,44 @@
+canonical_identifier: bkk:krp/KR3j0145/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR3j0145/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 閒居錄
+  date: '2015-08-24 23:25:01.525244'
+  source:
+    repository: kanripo
+    path: KR3j0145
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3j0145_000-WYG.yaml, hash: 'sha256:fbdb45ac0db2f077a9988ca0ec9815e35612f651b8ba463ea4bac5d1ca065fb7'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3j0145_000-WYG.markers.yaml, hash: 'sha256:06662a581736134364e4c697b7a506ead3e969651c22ff27e31f8f7ceb3edbca'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3j0145_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 321
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3j0145_WYG_000-3a
+    span:
+    - body
+    - 321
+    - 8047
+  label: 閒居録
+  type: section
+  level: 1
+hash: sha256:7761f32b8a24275409b04a0537a4c9c4070547cbb1a8bc1ee8067482a9d3811b

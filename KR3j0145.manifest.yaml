@@ -1,0 +1,50 @@
+canonical_identifier: bkk:krp/KR3j0145/v1
+canonical_location: https://kanripo.org/bkk/KR3j0145/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 閒居錄
+  date: '2015-08-24 23:25:01.525244'
+  source:
+    repository: kanripo
+    path: KR3j0145
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR3j0145_000.yaml, hash: 'sha256:b799f814c6344e7b4b3eff75903b0d4be81d51ad36130891076789f1f5c86318'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3j0145_000.markers.yaml, hash: 'sha256:bf4faf3c417cd7dc58c3afa5dbafb9ce95ec0e5189d1e3aaab66b8efd7c67f57'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3j0145_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 321
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3j0145_WYG_000-3a
+    span:
+    - body
+    - 321
+    - 8048
+  label: 閒居録
+  type: section
+  level: 1
+hash: sha256:e8f19c3e54b88d462d7257979ab2a5e730d181f57cf315d63c31508e66a75d0f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
