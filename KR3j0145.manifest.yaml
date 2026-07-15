@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3j0145/v1
 canonical_location: https://kanripo.org/bkk/KR3j0145/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 閒居錄
   date: '2015-08-24 23:25:01.525244'
@@ -20,9 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR3j0145_000.yaml, hash: 'sha256:85eba2524a6c62b3802f3770f8b41fd8f41ace16f571b853efd453210e6e520e'}
+  - {seq: 0, filename: KR3j0145_000.yaml, hash: 'sha256:095c950330127a15cebd3a4679599f623decc40d22726c970b378bd453a1d00c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3j0145_000.markers.yaml, hash: 'sha256:7bee502db71b1ac1e5047748af6af71cfd6c4cd98c64a8d59925d75a2f8b3206'}
+  - {seq: 0, role: markers, filename: assets/KR3j0145_000.markers.yaml, hash: 'sha256:70fd36bf74070af6fa549a4a147945f8f0fd9845bf94c48d0393ed2a15e2578c'}
 table_of_contents:
 - ref:
     seq: 0
@@ -44,4 +44,7 @@ table_of_contents:
   label: 閒居録
   type: section
   level: 1
-hash: sha256:2faa7213753db98faa3b8f521376f1fc9eeee6e3294f0d8f0ed64c6925de07fb
+hash: sha256:e0e90a2bc599ae1ba3fd5e3ec72a096ec7ddf6fceae62525d7342308de409352
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
