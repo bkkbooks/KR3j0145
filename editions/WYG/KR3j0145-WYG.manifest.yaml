@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3j0145_000-WYG.yaml, hash: 'sha256:fbdb45ac0db2f077a9988ca0ec9815e35612f651b8ba463ea4bac5d1ca065fb7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3j0145_000-WYG.markers.yaml, hash: 'sha256:06662a581736134364e4c697b7a506ead3e969651c22ff27e31f8f7ceb3edbca'}
+  - {seq: 0, role: markers, filename: assets/KR3j0145_000-WYG.markers.yaml, hash: 'sha256:af8563bc7dd36dbf8b4a9ad2aeb70b93665d3b6ae66fd9d4806b779d24543bb5'}
 table_of_contents:
 - ref:
     seq: 0
@@ -41,4 +41,4 @@ table_of_contents:
   label: 閒居録
   type: section
   level: 1
-hash: sha256:7761f32b8a24275409b04a0537a4c9c4070547cbb1a8bc1ee8067482a9d3811b
+hash: sha256:48566d831fa65639c2b8450ea14cca6526a2233292801b269a3437ee0623e6dd
